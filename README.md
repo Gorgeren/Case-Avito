@@ -71,6 +71,11 @@ https://platform.openai.com/docs/api-reference/models/list) для состав�
 3. Запустить docker контейнеры: ```docker compose up```
 4. Фронтенд будет запущен локально и доступен по адресу http://10.5.0.2:5173/search
    
+## Как могло бы выглядеть
+![](./img/avito.png)
+## Реализация
+![](./img/realization.png)
+## Лицензия
 
 
 ### [Licence](https://r.mtdv.me/articles/docker_run)
